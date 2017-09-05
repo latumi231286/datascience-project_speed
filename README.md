@@ -1,2 +1,2 @@
-# datascience-project_speed
+# datascience-models
 The first report: speed of the projects
